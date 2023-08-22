@@ -1,4 +1,4 @@
-import emiliano from "./assets/img/WhatsApp Image 2023-08-22 at 14.45.17.jpeg";
+import emiliano from "./assets/img/WhatsApp Image 2023-08-22 at 15.46.24.jpeg";
 //import logo from './emiliano.svg';
 import './App.css';
 
