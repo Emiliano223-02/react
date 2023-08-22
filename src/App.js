@@ -1,4 +1,4 @@
-import emiliano from "./assets/img/WhatsApp Image 2023-08-22 at 15.46.24.jpeg";
+import emiliano from "./assets/img/WhatsApp Image 2023-08-22 at 15.46.24.jpega";
 //import logo from './emiliano.svg';
 import './App.css';
 
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Empezemos
         </a>
       </header>
     </div>
